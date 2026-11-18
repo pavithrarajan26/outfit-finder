@@ -128,3 +128,9 @@ Open the local URL displayed by Vite in your browser.
 Computer Science and Engineering Student
 
 [GitHub](https://github.com/pavithrarajan26)
+
+## App Screenshots
+
+### AI Outfit Analysis
+
+![Outfit analysis results](outfit-analysis.png)
