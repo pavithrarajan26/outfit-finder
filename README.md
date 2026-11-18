@@ -133,4 +133,4 @@ Computer Science and Engineering Student
 
 ### AI Outfit Analysis
 
-![Outfit analysis results](outfit-analysis.png)
+![Outfit analysis results](./outfitanalysis.png)
