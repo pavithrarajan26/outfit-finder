@@ -1,0 +1,29 @@
+# Environment variables and API keys
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+venv-*/
+.venv/
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Mac
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
