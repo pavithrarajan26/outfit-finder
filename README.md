@@ -134,3 +134,7 @@ Computer Science and Engineering Student
 ### AI Outfit Analysis
 
 ![Outfit analysis results](./outfitanalysis.png)
+
+## Screenshots
+
+![Outfit Finder Screenshot](outfitfinderwithlinks.png)
